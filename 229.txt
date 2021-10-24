@@ -1,0 +1,6 @@
+97,mtn-bj
+96,mtn-bj
+95,moov-bj
+94,moov-bj
+91,mtn-bj
+90,mtn-bj
